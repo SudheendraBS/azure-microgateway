@@ -85,5 +85,5 @@
     "Mitch Fierro <fierro.mitch@gmail.com> (https://github.com/f1erro)"
   ],
   "author": "Kevin Swiber <kswiber@gmail.com>",
-  "engines":{"node": "0.12.x"}
+  "engines":{"node": "6.7.9"}
 }
