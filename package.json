@@ -86,5 +86,5 @@
   ],
   "author": "Kevin Swiber <kswiber@gmail.com>",
   "engines":{"node": "6.7.9"},
-  "nodeProcessCommandLine": "D:\home\site\wwwroot\bin\node.exe"
+  "nodeProcessCommandLine": "D:/home/site/wwwroot/bin/node.exe"
 }
